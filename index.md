@@ -32,7 +32,7 @@ marion.monnet[at]ipp.eu
 - [Budget 2016: la difficile maîtrise des dépenses publiques?](https://www.ipp.eu/publication/n21-budget-2016-la-difficile-maitrise-des-depenses-publiques/), _with Mahdi Ben Jelloul, Antoine Bozio, Sophie Cottet, Malka Guillot and Lucile Romanello, Note IPP n°21, 2015._
 
 ### Book
-- [Les allocations logement. Comment les réformer ?](http://www.cepremap.fr/depot/opus/OPUS38.pdf), _with Antoine Bozio, Gabrielle Fack, Julien Grenet, Marion Monnet and Lucile Romanello, Editions Rue d’Ulm, Presses de l’Ecole normale supérieure, Collection Cepremap, 2015._
+- [Les allocations logement. Comment les réformer ?](http://www.cepremap.fr/depot/opus/OPUS38.pdf), _with Antoine Bozio, Gabrielle Fack, Julien Grenet, Malka Guillot and Lucile Romanello, Editions Rue d’Ulm, Presses de l’Ecole normale supérieure, Collection Cepremap, 2015._
 
 ## Teaching 
 - 2017 - Teaching assistant in Public Policy Evaluation (Postgraduate) - Sciences Po Paris
