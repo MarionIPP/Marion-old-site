@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Marion Monnet 
 
-You can use the [editor on GitHub](https://github.com/MarionIPP/marion.monnet.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+PhD candidate at [EHESS-Paris School of Economics](https://www.parisschoolofeconomics.eu/) and junior economist at [Institut des politiques publiques](https://www.ipp.eu/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My dissertation is under the supervision of Sylvie Lambert and Julien Grenet and focuses on policy tools aimed at improving social and gender diversity in education. 
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
