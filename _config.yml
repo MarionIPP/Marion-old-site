@@ -1,21 +1,22 @@
-remote_theme:  marionipp/taken
+- theme: jekyll-theme-minimal 
+# remote_theme:  marionipp/taken
 
 # Site settings
-title: Greg Owens 
-email: gregory.owens@alumni.ubc.ca
-baseurl: "" # the subpath of your site, e.g. /blog
+# title: Greg Owens 
+#email: gregory.owens@alumni.ubc.ca
+# baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: evolution, hybridization, genomes, cool stuff
+# description: evolution, hybridization, genomes, cool stuff
 
 # Social icons
-google_scholar: fMPIb8sAAAAJ
-linkedin: gregory-owens-34434b100
-github: owensgl
+# google_scholar: fMPIb8sAAAAJ
+# linkedin: gregory-owens-34434b100
+# github: owensgl
 
 
-footer: © Taken theme
+# footer: © Taken theme
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
