@@ -22,6 +22,8 @@ marion.monnet[at]ipp.eu
 
 ### Publications
 - [Designing Housing Benefits: An Application with French Data](https://www.cairn.info/revue-economie-et-prevision.htm), _with Antoine Bozio, Malka Guillot and Lucile Romanello, Economie et Prévision, N°211-212, 2018._
+### Working papers 
+- [Can female role models reduce the gender gap in science? Evidence from classroom interventions in French high schools](https://halshs.archives-ouvertes.fr/halshs-01713068/document), _with Thomas Breda, Julien Grenet and Clémentine Van Effenterre, PSE Working Paper 2018-06._
 
 ### Policy reports and policy briefs
 - [Évaluer les effets des aides de l’ADEME sur la R&D et la performance des entreprises](https://www.ipp.eu/publication/evaluation-intermediaire-aides-programme-investissement-avenir-ademe/), _with Sophie Cottet, Fanny Henriet, Katrin Millock and Lucile Romanello, Rapport IPP  n°17._
